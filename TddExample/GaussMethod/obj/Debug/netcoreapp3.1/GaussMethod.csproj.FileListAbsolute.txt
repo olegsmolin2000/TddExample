@@ -1,0 +1,13 @@
+C:\Users\olegs\source\repos\TddExample\GaussMethod\bin\Debug\netcoreapp3.1\GaussMethod.exe
+C:\Users\olegs\source\repos\TddExample\GaussMethod\bin\Debug\netcoreapp3.1\GaussMethod.deps.json
+C:\Users\olegs\source\repos\TddExample\GaussMethod\bin\Debug\netcoreapp3.1\GaussMethod.runtimeconfig.json
+C:\Users\olegs\source\repos\TddExample\GaussMethod\bin\Debug\netcoreapp3.1\GaussMethod.runtimeconfig.dev.json
+C:\Users\olegs\source\repos\TddExample\GaussMethod\bin\Debug\netcoreapp3.1\GaussMethod.dll
+C:\Users\olegs\source\repos\TddExample\GaussMethod\bin\Debug\netcoreapp3.1\GaussMethod.pdb
+C:\Users\olegs\source\repos\TddExample\GaussMethod\obj\Debug\netcoreapp3.1\GaussMethod.csproj.CoreCompileInputs.cache
+C:\Users\olegs\source\repos\TddExample\GaussMethod\obj\Debug\netcoreapp3.1\GaussMethod.AssemblyInfoInputs.cache
+C:\Users\olegs\source\repos\TddExample\GaussMethod\obj\Debug\netcoreapp3.1\GaussMethod.AssemblyInfo.cs
+C:\Users\olegs\source\repos\TddExample\GaussMethod\obj\Debug\netcoreapp3.1\GaussMethod.dll
+C:\Users\olegs\source\repos\TddExample\GaussMethod\obj\Debug\netcoreapp3.1\GaussMethod.pdb
+C:\Users\olegs\source\repos\TddExample\GaussMethod\obj\Debug\netcoreapp3.1\GaussMethod.genruntimeconfig.cache
+C:\Users\olegs\source\repos\TddExample\GaussMethod\obj\Debug\netcoreapp3.1\GaussMethod.csprojAssemblyReference.cache

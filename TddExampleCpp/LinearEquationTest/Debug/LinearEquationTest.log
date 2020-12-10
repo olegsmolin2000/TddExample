@@ -1,0 +1,18 @@
+﻿  LinearEquationTest.cpp
+C:\Users\olegs\source\repos\TddExampleCpp\LinearEquationTest\LinearEquationTest.cpp(4,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\olegs\source\repos\TddExampleCpp\LinearEquationTest\LinearEquationTest.cpp(5,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\olegs\source\repos\TddExampleCpp\GaussMethod\LinearEquation.cpp(21,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\olegs\source\repos\TddExampleCpp\GaussMethod\LinearEquation.cpp(26,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\olegs\source\repos\TddExampleCpp\GaussMethod\LinearEquation.cpp(38,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\olegs\source\repos\TddExampleCpp\GaussMethod\LinearEquation.cpp(54,29): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\olegs\source\repos\TddExampleCpp\GaussMethod\LinearEquation.cpp(61,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\olegs\source\repos\TddExampleCpp\GaussMethod\LinearEquation.cpp(63,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\olegs\source\repos\TddExampleCpp\GaussMethod\LinearEquation.cpp(70,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\olegs\source\repos\TddExampleCpp\GaussMethod\LinearEquation.cpp(80,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\olegs\source\repos\TddExampleCpp\GaussMethod\LinearEquation.cpp(94,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\olegs\source\repos\TddExampleCpp\GaussMethod\LinearEquation.cpp(105,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\olegs\source\repos\TddExampleCpp\GaussMethod\LinearEquation.cpp(120,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\olegs\source\repos\TddExampleCpp\GaussMethod\LinearEquation.cpp(131,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\olegs\source\repos\TddExampleCpp\GaussMethod\LinearEquation.cpp(147,26): warning C4018: <: несоответствие типов со знаком и без знака
+     Создается библиотека C:\Users\olegs\source\repos\TddExampleCpp\Debug\LinearEquationTest.lib и объект C:\Users\olegs\source\repos\TddExampleCpp\Debug\LinearEquationTest.exp
+  LinearEquationTest.vcxproj -> C:\Users\olegs\source\repos\TddExampleCpp\Debug\LinearEquationTest.dll

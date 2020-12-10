@@ -1,0 +1,3 @@
+﻿  SystemLinearEquation.cpp
+C:\Users\olegs\source\repos\TddExampleCpp\GaussMethod\SystemLinearEquation.cpp(6,26): warning C4018: <: несоответствие типов со знаком и без знака
+  GaussMethod.vcxproj -> C:\Users\olegs\source\repos\TddExampleCpp\Debug\GaussMethod.exe

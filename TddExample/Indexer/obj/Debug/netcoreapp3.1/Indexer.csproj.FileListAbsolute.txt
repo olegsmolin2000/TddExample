@@ -1,0 +1,13 @@
+C:\Users\olegs\source\repos\TddExample\Indexer\bin\Debug\netcoreapp3.1\Indexer.exe
+C:\Users\olegs\source\repos\TddExample\Indexer\bin\Debug\netcoreapp3.1\Indexer.deps.json
+C:\Users\olegs\source\repos\TddExample\Indexer\bin\Debug\netcoreapp3.1\Indexer.runtimeconfig.json
+C:\Users\olegs\source\repos\TddExample\Indexer\bin\Debug\netcoreapp3.1\Indexer.runtimeconfig.dev.json
+C:\Users\olegs\source\repos\TddExample\Indexer\bin\Debug\netcoreapp3.1\Indexer.dll
+C:\Users\olegs\source\repos\TddExample\Indexer\bin\Debug\netcoreapp3.1\Indexer.pdb
+C:\Users\olegs\source\repos\TddExample\Indexer\obj\Debug\netcoreapp3.1\Indexer.csprojAssemblyReference.cache
+C:\Users\olegs\source\repos\TddExample\Indexer\obj\Debug\netcoreapp3.1\Indexer.csproj.CoreCompileInputs.cache
+C:\Users\olegs\source\repos\TddExample\Indexer\obj\Debug\netcoreapp3.1\Indexer.AssemblyInfoInputs.cache
+C:\Users\olegs\source\repos\TddExample\Indexer\obj\Debug\netcoreapp3.1\Indexer.AssemblyInfo.cs
+C:\Users\olegs\source\repos\TddExample\Indexer\obj\Debug\netcoreapp3.1\Indexer.dll
+C:\Users\olegs\source\repos\TddExample\Indexer\obj\Debug\netcoreapp3.1\Indexer.pdb
+C:\Users\olegs\source\repos\TddExample\Indexer\obj\Debug\netcoreapp3.1\Indexer.genruntimeconfig.cache
